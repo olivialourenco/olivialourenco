@@ -1,13 +1,20 @@
 # Olá, eu sou a Olívia! 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/olivia-lourenço-2405421b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://olivia-lourenco.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ograciana1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 Desenvolvedora Fullstack apaixonada por construir o equilíbrio entre sistemas robustos e experiências de usuário. 
 
-23 anos
-
-São Bernardo do Campo - SP
-
-### 🛠️ Sobre Mim
-Minha jornada na tecnologia começou em 2022 na Mecatrônica, onde descobri minha paixão por códigos. Em 2024 ingressei na **Faculdade SENAI** para iniciar a minha graduação em **Análise e Desenvolvimento de Sistemas**, hoje estou formada e focada em aplicar minha experiência Fullstack para construir soluções eficientes e escaláveis no mundo real.
+📍 **São Bernardo do Campo - SP** | 🎂 **23 anos**
 
 * **Foco Atual:** Arquiteturas Fullstack modernas.
 * **Diferencial:** Experiência com ritos ágeis (Scrum/Kanban) e sólida base em lógica de programação e POO.
@@ -17,22 +24,30 @@ Minha jornada na tecnologia começou em 2022 na Mecatrônica, onde descobri minh
 
 ### 🚀 Tecnologias & Ferramentas
 
-* **Linguagens & Frameworks:** C# (.NET/ASP.NET), JavaScript/TypeScript, React, Next.js e Java.
-* **Banco de Dados:** SQL Server, PostgreSQL, MySQL e SQLite.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
 * **IA para Dev:** Especialista em Cursor AI, GitHub Copilot, Claude e Engenharia de Prompts.
-* **Outros:** Tailwind CSS, Supabase, Git/GitHub e metodologias ágeis.
+* **Outros:** Supabase e metodologias ágeis.
 
 ---
 
-### 📁 Projetos e repositórios
-
-Sinta-se à vontade para explorar meus repositórios e ver de perto como aplico lógica e arquitetura em soluções reais.
-
----
-
-### 💼 Minha primeira experiência profissional programando
-* Desenvolvimento de soluções de automação com C# (front-end e back-end);
-* Gestão de bancos de dados complexos (SQLServer | SQLite).
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olivialourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivialourenco&layout=compact&theme=dark" height="180px" />
+</p>
 
 ---
 
@@ -40,6 +55,3 @@ Sinta-se à vontade para explorar meus repositórios e ver de perto como aplico 
 * **LinkedIn:** [olivia-lourenço](https://www.linkedin.com/in/olivia-lourenço-2405421b9)
 * **Portfólio:** [olivia-lourenco.vercel.app](https://olivia-lourenco.vercel.app)
 * **E-mail:** ograciana1@gmail.com
-
----
-*“Desenvolvendo aplicações modernas enquanto exploro as infinitas possibilidades do FullStack.”*
