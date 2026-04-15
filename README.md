@@ -49,9 +49,3 @@ Desenvolvedora Fullstack apaixonada por construir o equilíbrio entre sistemas r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivialourenco&layout=compact&theme=dark" height="180px" />
 </p>
 
----
-
-### 📫 Vamos nos conectar?
-* **LinkedIn:** [olivia-lourenço](https://www.linkedin.com/in/olivia-lourenço-2405421b9)
-* **Portfólio:** [olivia-lourenco.vercel.app](https://olivia-lourenco.vercel.app)
-* **E-mail:** ograciana1@gmail.com
