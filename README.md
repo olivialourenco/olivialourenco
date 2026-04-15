@@ -32,7 +32,8 @@ Desenvolvedora Fullstack apaixonada por construir o equilíbrio entre sistemas r
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=olivialourenco&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olivialourenco&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=olivialourenco&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800"" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olivialourenco&layout=compact&theme=dark&cache_seconds=1800"" alt="Linguagens mais usadas" height="180px" />
 </p>
+
 
