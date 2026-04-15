@@ -1,7 +1,7 @@
 # Olá, eu sou a Olívia! 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olivia-lourenço-2405421b9">
+  <a href="https://www.linkedin.com/in/olívia-lourenço-2405421b9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://olivia-lourenco.vercel.app">
