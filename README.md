@@ -28,7 +28,6 @@ Desenvolvedora Fullstack apaixonada por construir o equilíbrio entre sistemas r
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" height="35" />
 </p>
 
 ---
